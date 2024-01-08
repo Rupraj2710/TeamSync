@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/TeamSync/static/css/main.7ff35193.css",
+    "main.js": "/TeamSync/static/js/main.609e1f6d.js",
+    "static/js/787.9f4803dc.chunk.js": "/TeamSync/static/js/787.9f4803dc.chunk.js",
+    "index.html": "/TeamSync/index.html",
+    "main.7ff35193.css.map": "/TeamSync/static/css/main.7ff35193.css.map",
+    "main.609e1f6d.js.map": "/TeamSync/static/js/main.609e1f6d.js.map",
+    "787.9f4803dc.chunk.js.map": "/TeamSync/static/js/787.9f4803dc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7ff35193.css",
+    "static/js/main.609e1f6d.js"
+  ]
+}
